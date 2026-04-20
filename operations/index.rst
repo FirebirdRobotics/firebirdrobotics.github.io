@@ -9,6 +9,7 @@ Robot Operation
 
    driverstation.md
    roborio.md
+   systemcore.md
    controller.md
 
 .. include:: operations_.md

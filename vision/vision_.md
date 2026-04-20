@@ -41,7 +41,7 @@ This means that the RIO cannot communicate with the coprocessor(s). This can hap
  - The coprocessor(s) have not been cold booted since the last time the RIO was
  - The camera name on the coprocessor(s) (set through the web interface) does not match the camera name in VisionConstants
 
-### The robot pose in AdvantageScope quivers when receiving vision updates
+### The robot pose in AdvantageScope quivers when receiving vision updates.
 
 If the robot pose is moving translationally, incrase the linear standard deviation baseline in VisionConstants.  If the robot is moving angularly (rotating), increase the angular standard deviation baseline in VisionConstants.
 
