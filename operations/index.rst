@@ -8,8 +8,8 @@ Robot Operation
    :titlesonly:
 
    driverstation.md
-   roborio.md
    systemcore.md
+   roborio.md
    controller.md
 
 .. include:: operations_.md
