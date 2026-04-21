@@ -7,6 +7,7 @@ Robot Operation
    :glob:
    :titlesonly:
 
+   gettingstarted.md
    driverstation.md
    systemcore.md
    roborio.md
