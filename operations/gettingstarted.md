@@ -8,10 +8,11 @@ By the end of this guide you will be set up to start programming our robot.
 
 ### Necessary Software
 
-These are the core tools required to work on the robot.  WPILib will provide a customized VSCode installation and the build tools required to write and deploy the robot code.  FRC Game Tools allows you to remotely control the robot.
+These are the core tools required to work on the robot.  WPILib will provide a customized VSCode installation and the build tools required to write and deploy the robot code.  FRC Game Tools allows you to remotely control the robot.  Phoenix Tuner X allos remotely configuring, diagnosing, and control the electronics (motors, actuators, etc.) connected to the robot's CAN bus(es).
 
  - [FRC Game Tools](https://www.ni.com/en/support/downloads/drivers/download.frc-game-tools.html)
  - [WPILib](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html?authuser=0)
+ - [Phoenix Tuner X](https://v6.docs.ctr-electronics.com/en/latest/docs/tuner/index.html) (optional)
 
 Note: FRC software is currently only available for Windows.  This will likely not change.  It is important to reinstall these software suites every season, as differing versions are strictly incompatible.
 
